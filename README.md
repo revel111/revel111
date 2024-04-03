@@ -1,6 +1,6 @@
 <h1 align="center">Sup, I'm rxvxl</h1>
 <p align="left">
-![dollar](https://github.com/revel111/revel111/assets/94068009/c73a3dd3-7c5e-433a-9374-bbb7efcda858)
+![dollar](https://github.com/revel111/revel111/assets/94068009/c73a3dd3-7c5e-433a-9374-bbb7efcda858.gif)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
