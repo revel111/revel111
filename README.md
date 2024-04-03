@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm rxvxl</h1>
+<h1 align="center">Sup, I'm revel</h1>
 <img align="center" alt="Coding" width="200" src="https://github.com/revel111/revel111/assets/94068009/966b8b53-ec8f-4588-85d1-35ded54bce1e">
 
 <h3 align="left">Languages and Tools:</h3>
